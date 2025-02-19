@@ -1,0 +1,14 @@
+C:\GOGO\Array2\bin\Debug\net8.0\Array2.exe
+C:\GOGO\Array2\bin\Debug\net8.0\Array2.deps.json
+C:\GOGO\Array2\bin\Debug\net8.0\Array2.runtimeconfig.json
+C:\GOGO\Array2\bin\Debug\net8.0\Array2.dll
+C:\GOGO\Array2\bin\Debug\net8.0\Array2.pdb
+C:\GOGO\Array2\obj\Debug\net8.0\Array2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GOGO\Array2\obj\Debug\net8.0\Array2.AssemblyInfoInputs.cache
+C:\GOGO\Array2\obj\Debug\net8.0\Array2.AssemblyInfo.cs
+C:\GOGO\Array2\obj\Debug\net8.0\Array2.csproj.CoreCompileInputs.cache
+C:\GOGO\Array2\obj\Debug\net8.0\Array2.dll
+C:\GOGO\Array2\obj\Debug\net8.0\refint\Array2.dll
+C:\GOGO\Array2\obj\Debug\net8.0\Array2.pdb
+C:\GOGO\Array2\obj\Debug\net8.0\Array2.genruntimeconfig.cache
+C:\GOGO\Array2\obj\Debug\net8.0\ref\Array2.dll
