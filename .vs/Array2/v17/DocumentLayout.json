@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\GOGO\\Array2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE7F5140-750E-4C5F-9920-834853E05505}|..\\FindEvenElement\\FindEvenElement.csproj|c:\\gogo\\findevenelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{879D9D99-F8B5-43C9-82BE-F0A22828B1F8}|..\\Neshto\\Neshto.csproj|c:\\gogo\\neshto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48BC401-E3C0-419E-80BA-2BB0480FCC78}|..\\LongName\\LongName.csproj|c:\\gogo\\longname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BB2061-F15D-4620-948D-47C9037D3D9D}|Array2.csproj|c:\\gogo\\array2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BB2061-F15D-4620-948D-47C9037D3D9D}|Array2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E738A46F-FFBA-4466-86CD-239F4FAC51E0}|..\\momo\\momo.csproj|c:\\gogo\\momo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879D9D99-F8B5-43C9-82BE-F0A22828B1F8}|..\\Neshto\\Neshto.csproj|c:\\gogo\\neshto\\neshto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,20 +29,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GOGO\\Neshto\\Program.cs",
               "RelativeDocumentMoniker": "..\\Neshto\\Program.cs",
               "ToolTip": "C:\\GOGO\\Neshto\\Program.cs",
               "RelativeToolTip": "..\\Neshto\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T09:57:21.185Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GOGO\\FindEvenElement\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FindEvenElement\\Program.cs",
+              "ToolTip": "C:\\GOGO\\FindEvenElement\\Program.cs",
+              "RelativeToolTip": "..\\FindEvenElement\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:14:54.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GOGO\\LongName\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LongName\\Program.cs",
+              "ToolTip": "C:\\GOGO\\LongName\\Program.cs",
+              "RelativeToolTip": "..\\LongName\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:12:04.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GOGO\\Array2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GOGO\\Array2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:11:57.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GOGO\\momo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\momo\\Program.cs",
+              "ToolTip": "C:\\GOGO\\momo\\Program.cs",
+              "RelativeToolTip": "..\\momo\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:08:46.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Neshto",
+              "DocumentMoniker": "C:\\GOGO\\Neshto\\Neshto.csproj",
+              "RelativeDocumentMoniker": "..\\Neshto\\Neshto.csproj",
+              "ToolTip": "C:\\GOGO\\Neshto\\Neshto.csproj",
+              "RelativeToolTip": "..\\Neshto\\Neshto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T06:43:17.725Z",
               "EditorCaption": ""
             },
             {
